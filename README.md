@@ -2,8 +2,8 @@
 **Final Project Semester Ganjil 2025/2026**
 
 ## 👨‍💻 Profil Pengembang
-* [cite_start]**Nama**: George Mangalik [cite: 58]
-* [cite_start]**NIM**: 2381039 [cite: 58]
+* [cite_start]**Nama**: Harry Stanly Manik [cite: 58]
+* [cite_start]**NIM**: 2381007 [cite: 58]
 * [cite_start]**Instansi**: Universitas Advent Indonesia (UNAI) [cite: 58]
 * [cite_start]**Fakultas**: Teknologi Informasi (FTI) [cite: 58]
 
