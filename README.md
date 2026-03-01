@@ -25,7 +25,7 @@ Proyek ini merupakan perancangan basis data relasional yang komprehensif untuk p
 
 ## 📊 Rancangan Basis Data
 *(Opsional: Jika kamu sudah upload gambar ERD, masukkan kodenya di sini)*
-![ERD Diagram](diagram/erd_diagram.png)
+![ERD Database](./sql/erd_ecommerce.png)
 
 ---
 *Proyek ini dikembangkan sebagai bagian dari kurikulum Basis Data di FTI UNAI.*
