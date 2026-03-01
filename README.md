@@ -24,7 +24,7 @@ Proyek ini merupakan perancangan basis data relasional yang komprehensif untuk p
 * [cite_start]`sql/05_views.sql`: Abstraksi data untuk laporan manajerial. [cite: 37]
 
 ## 📊 Rancangan Basis Data
-*(Opsional: Jika kamu sudah upload gambar ERD, masukkan kodenya di sini)*
+
 ![ERD Database](./sql/erd_ecommerce.png)
 
 ---
